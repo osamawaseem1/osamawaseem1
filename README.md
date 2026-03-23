@@ -24,4 +24,4 @@ Studying towards a Bachelor of Computer Science at Auckland University of Techno
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/osama-soliman-00980b320/) · iamosamasoliman@gmail.com
+[LinkedIn](https://www.linkedin.com/in/osama-soliman-00980b320/) · contact@osamasoliman.com
