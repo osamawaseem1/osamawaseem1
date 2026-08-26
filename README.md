@@ -15,7 +15,7 @@ Full-time Flutter developer for [Halal Kiwi](https://halalkiwi.com) since August
 
 ### Masajidna
 
-An independently owned, built, and maintained mosque management platform published under Muhkam Limited. It includes three working Flutter applications and a shared Firebase backend:
+A mosque management platform that I independently built, own, and maintain, published under Muhkam Limited. It includes three working Flutter applications and a shared Firebase backend:
 
 - An administration app for mosque profiles, prayer schedules, facilities, and announcements.
 - A community app for mosque discovery, schedules, notifications, and location-aware filtering.
