@@ -4,6 +4,8 @@ I'm a Software Engineer based in Auckland, New Zealand, specialising in Flutter 
 
 I'm looking for a full-time Software Engineer role in New Zealand and have unrestricted New Zealand work rights.
 
+Notice period: two weeks.
+
 [Portfolio](https://osamasoliman.com) · [CV](https://osamasoliman.com/resume) · [LinkedIn](https://www.linkedin.com/in/osama-soliman-00980b320/) · [Email](mailto:contact@osamasoliman.com)
 
 ## Selected work
