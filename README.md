@@ -1,6 +1,10 @@
-# Hi, I’m Osama Soliman
+# Hi, I'm Osama Soliman
 
-Software engineer based in Auckland, New Zealand, specialising in Flutter and Firebase. I build and maintain cross-platform products with a focus on clear user experiences, maintainable architecture, offline reliability, security, and cost-aware data access.
+I'm a Software Engineer based in Auckland, New Zealand, specialising in Flutter and Firebase. I build and maintain mobile applications, from the screens people use to the data and workflows behind them.
+
+I'm looking for a full-time Software Engineer role in New Zealand and have unrestricted New Zealand work rights.
+
+[Portfolio](https://osamasoliman.com) · [CV](https://osamasoliman.com/resume) · [LinkedIn](https://www.linkedin.com/in/osama-soliman-00980b320/) · [Email](mailto:contact@osamasoliman.com)
 
 ## Selected work
 
@@ -10,22 +14,24 @@ Full-time Flutter developer for [Halal Kiwi](https://halalkiwi.com) since August
 
 - Initiated and delivered a complete interface redesign.
 - Implemented fuzzy search to make listings easier to discover.
-- Improved Firestore data access to reduce unnecessary reads and improve loading performance.
+- Refined Firestore queries and data access to avoid unnecessary reads.
 - Contributed to an AI-assisted manufacturer-enquiry workflow for unknown products.
 
 ### Masajidna
 
-A mosque management platform that I independently built, own, and maintain, published under Muhkam Limited. It includes three working Flutter applications and a shared Firebase backend:
+[Masajidna](https://masajidna.com) is a mosque management platform that I independently built, own, and continue to maintain. It is published under Muhkam Limited and includes three Flutter applications with a shared Firebase backend:
 
 - An administration app for mosque profiles, prayer schedules, facilities, and announcements.
 - A community app for mosque discovery, schedules, notifications, and location-aware filtering.
 - A display app for mosque televisions and kiosks.
 
-The core technical feature is Catch Prayer, which combines the user’s location, mosque prayer schedules, and driving-duration data to identify mosques that may be reached before iqama. The platform also supports three schedule modes, six permission roles, rotating display pairing codes, offline use, Arabic RTL, App Check, query and rate controls, and automated tests.
+Catch Prayer combines location, prayer schedules, and estimated driving times to help users find mosques they may reach before iqama. My work also covers offline behaviour, Arabic right-to-left layouts, and the workflows connecting the three apps.
+
+[Visit Masajidna](https://masajidna.com) · [View on the App Store](https://apps.apple.com/nz/app/masajidna/id6795071200) · [Read the case study](https://osamasoliman.com/work/masajidna)
 
 ## Portfolio
 
-My current portfolio includes detailed case studies for Halal Kiwi and Masajidna, with the product problem, engineering decisions, and evidence separated from unsupported metrics.
+My portfolio explains the problems behind the products, my contributions, and the engineering decisions involved. Start with [Halal Kiwi](https://osamasoliman.com/work/halal-kiwi) or [Masajidna](https://osamasoliman.com/work/masajidna).
 
 ## Technical toolkit
 
@@ -33,6 +39,6 @@ My current portfolio includes detailed case studies for Halal Kiwi and Masajidna
 
 ## Currently
 
-Studying toward a Bachelor of Computer and Information Sciences at Auckland University of Technology, majoring in Cybersecurity and expecting to graduate in July 2028. I am targeting full-time Software Engineer roles in New Zealand.
+I'm completing a Bachelor of Computer and Information Sciences at Auckland University of Technology, majoring in Cybersecurity, with expected graduation in July 2028. I can work full-time while completing my degree.
 
-[Portfolio](https://osamasoliman.com) · [LinkedIn](https://www.linkedin.com/in/osama-soliman-00980b320/) · [Email](mailto:contact@osamasoliman.com)
+For a role or a software-project conversation, [get in touch](mailto:contact@osamasoliman.com).
